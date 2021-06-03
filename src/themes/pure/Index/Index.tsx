@@ -3,7 +3,7 @@ import { CreateElement } from 'vue'
 import Hello from '@/components/Hello/Hello'
 
 @Component
-export default class extends Vue {
+export default class Index extends Vue {
 
   render(h: CreateElement) {
     return <div>
